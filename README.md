@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @CarlaFrias
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hola!!
 
-<!---
-CarlaFrias/CarlaFrias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Mi nombre es @CarlaFrias
+- 👀 Soy programadora Frontend en desarrollo.
+- 🌱 Actualmente me encuentro aprendiendo React y Node.
+- 💞️ Estoy buscando ser parte de grandes desafíos y proyectos que me ayuden a crecer...
+
+
+## Contáctame...
+
+[<img style='margin:0 15px' align="left" alt="CARLA FRIAS | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img style='margin:0 15px' align="left" alt="carlafrias | codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/codewars.svg" />][codewars]
+<br />
+
+## Tecnologias
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
+![REACT](https://img.shields.io/badge/-REACT-000000?style=flat&logo=react)
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
+
+
+[linkedin]: https://www.linkedin.com/in/friascarla
+[codewars]:https://www.codewars.com/users/carlajimenafrias
+
