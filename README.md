@@ -1,9 +1,9 @@
 ## Hola!!
 
 - 👋 Mi nombre es @CarlaFrias
-- 👀 Soy programadora Frontend en desarrollo.
-- 🌱 Actualmente me encuentro aprendiendo React y Node.
-- 💞️ Estoy buscando ser parte de grandes desafíos y proyectos que me ayuden a crecer...
+- 👀 Soy Full Stack Developer.
+- 🌱 Actualmente me encuentro aprendiendo Python.
+- 💞️ Estoy buscando ser parte de una empresa con grandes desafíos y proyectos que me ayuden a crecer...
 
 
 ## Contáctame...
