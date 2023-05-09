@@ -29,4 +29,5 @@
  - ✉ carlajimenafrias@gmail.com
  - 🌎 https://github.com/CarlaFrias
  - 📞 +543816067290
+ - Linkedin: https://www.linkedin.com/in/friascarla
 
