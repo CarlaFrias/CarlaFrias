@@ -25,3 +25,8 @@
 [linkedin]: https://www.linkedin.com/in/friascarla
 [codewars]:https://www.codewars.com/users/carlajimenafrias
 
+👋 ¿Te interesa saber más de mi? Contactame!
+ - ✉ carlajimenafrias@gmail.com
+ - 🌎 https://github.com/CarlaFrias
+ - 📞 +543816067290
+
