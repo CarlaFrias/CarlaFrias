@@ -27,7 +27,6 @@
 
 👋 ¿Te interesa saber más de mi? Contactame!
  - ✉ carlajimenafrias@gmail.com
- - 🌎 https://github.com/CarlaFrias
+ - 🌎 https://www.linkedin.com/in/friascarla
  - 📞 +543816067290
- - Linkedin: https://www.linkedin.com/in/friascarla
 
